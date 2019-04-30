@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                <a href="http://beckjohnsonart.com/#contact">Contact Form</a>
+                <a href='/laravel-project/public/form'>Contact Form</a>
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
